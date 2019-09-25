@@ -1,4 +1,12 @@
-Task 1: Parsing Raw Text Files
+Text documents, such as crawled web data, are usually comprised of topically coherent text
+data, which within each topically coherent data, one would expect that the word usage
+demonstrates more consistent lexical distributions than that across data-set. A linear partition of
+texts into topic segments can be used for text analysis tasks, such as passage retrieval in IR
+(information retrieval), document summarization, recommender systems, and learning-to-rank
+methods.
+
+
+# Task 1: Parsing Raw Text Files
 
 
 touches the very first step of analyzing textual data, i.e., extracting data
@@ -21,7 +29,7 @@ current unit (‘NA’ if the value is Null).
 
 
 
-Task 2: Text Pre-Processing
+# Task 2: Text Pre-Processing
 
 touches on the next step of analyzing textual data, i.e., converting the extracted
 data into a proper format. In this assessment, you are required to write Python code to
