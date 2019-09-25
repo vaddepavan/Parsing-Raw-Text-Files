@@ -1,0 +1,611 @@
+Unigram_TokensApply:0
+Australia:1
+Australian:2
+Bayesian:3
+Chinese:4
+Critically:5
+Demonstrate:6
+Describe:7
+Design:8
+Have:9
+Identify:10
+Students:11
+This:12
+Understand:13
+ability:14
+academic:15
+accounting:16
+acquired:17
+acquisition:18
+activities:19
+advanced:20
+aims:21
+algorithms:22
+analyse:23
+analysis:24
+analytical:25
+application:26
+applications:27
+applied:28
+apply:29
+appraise:30
+approach:31
+approaches:32
+area:33
+areas:34
+articulate:35
+aspects:36
+assess:37
+assessment:38
+audiences:39
+awareness:40
+based:41
+basic:42
+basis:43
+biomedical:44
+broad:45
+building:46
+business:47
+capacity:48
+capital:49
+care:50
+case:51
+central:52
+century:53
+challenges:54
+change:55
+characteristics:56
+chemical:57
+chemistry:58
+chosen:59
+cinema:60
+climate:61
+clinical:62
+collaborative:63
+collection:64
+commercialisation:65
+communicate:66
+communication:67
+community:68
+complete:69
+complex:70
+components:71
+composite:72
+comprehensive:73
+computer:74
+concept:75
+concepts:76
+conditions:77
+conduct:78
+considerations:79
+considered:80
+contemporary:81
+content:82
+context:83
+contexts:84
+control:85
+core:86
+corporate:87
+covered:88
+creation:89
+creative:90
+critical:91
+critically:92
+critique:93
+cultural:94
+culture:95
+current:96
+data:97
+dealing:98
+debates:99
+decision:100
+demonstrate:101
+describe:102
+design:103
+designed:104
+designing:105
+develop:106
+developed:107
+developing:108
+development:109
+developments:110
+devices:111
+digital:112
+discipline:113
+disciplines:114
+discuss:115
+discussed:116
+distributed:117
+diverse:118
+economic:119
+education:120
+effective:121
+effectively:122
+electron:123
+elements:124
+emphasis:125
+energy:126
+engage:127
+engineering:128
+ensemble:129
+environment:130
+environmental:131
+environments:132
+essential:133
+ethical:134
+ethics:135
+evaluate:136
+evidence:137
+examine:138
+examines:139
+experience:140
+experimental:141
+explain:142
+explore:143
+explores:144
+factors:145
+field:146
+film:147
+film_screen:148
+films:149
+final:150
+finance:151
+financial:152
+findings:153
+flow:154
+flow_flow:155
+flows:156
+focus:157
+focuses:158
+form:159
+forms:160
+formulate:161
+foundation:162
+framework:163
+frameworks:164
+functional:165
+fundamental:166
+fundamentals:167
+gain:168
+global:169
+groundwater:170
+group:171
+health:172
+healthcare:173
+high:174
+high_level:175
+historical:176
+history:177
+host_partner:178
+human:179
+hydrological:180
+ideas:181
+identify:182
+impact:183
+impacts:184
+implement:185
+implementation:186
+implications:187
+importance:188
+important:189
+include:190
+including:191
+independent:192
+individual:193
+industries:194
+industry:195
+information:196
+innovative:197
+integrate:198
+intelligence:199
+interaction:200
+international:201
+internship:202
+internship_year:203
+interpret:204
+introduces:205
+introduction:206
+issue:207
+issues:208
+knowledge:209
+leadership:210
+learn:211
+learning:212
+legal:213
+level:214
+life:215
+life_care:216
+limitations:217
+literary:218
+literature:219
+main:220
+main_group:221
+major:222
+making:223
+manage:224
+management:225
+managing:226
+manufacturing:227
+market:228
+marketing:229
+material:230
+materials:231
+mechanisms:232
+media:233
+medical:234
+meet:235
+metals:236
+methodologies:237
+methodology:238
+methods:239
+midwifery:240
+modelling:241
+models:242
+modern:243
+music:244
+musical:245
+national:246
+nature:247
+nursing:248
+online:249
+opportunity:250
+oral:251
+oral_form:252
+oral_written:253
+order:254
+organisation:255
+organisational:256
+organisations:257
+pain:258
+pain_life:259
+part:260
+part_team:261
+partner:262
+people:263
+performance:264
+personal:265
+perspective:266
+perspectives:267
+pharmacy:268
+philosophical:269
+philosophy:270
+physical:271
+plan:272
+planning:273
+policy:274
+political:275
+politics:276
+practical:277
+practice:278
+practices:279
+present:280
+presentation:281
+primary:282
+principles:283
+problem:284
+problems:285
+process:286
+processes:287
+processing:288
+production:289
+professional:290
+program:291
+programming:292
+programs:293
+project:294
+projects:295
+provide:296
+public:297
+qualitative:298
+quality:299
+question:300
+questions:301
+range:302
+reflect:303
+regulatory:304
+related:305
+relating:306
+relation:307
+relations:308
+relationship:309
+relationships:310
+relevance:311
+relevant:312
+report:313
+report_host:314
+required:315
+resource:316
+resources:317
+results:318
+review:319
+rights:320
+risk:321
+road:322
+role:323
+roles:324
+safety:325
+science:326
+sciences:327
+scientific:328
+screen:329
+screen_content:330
+security:331
+select:332
+selected:333
+selection:334
+series:335
+services:336
+setting:337
+skills:338
+social:339
+society:340
+software:341
+solutions:342
+solving:343
+sound:344
+sources:345
+specific:346
+standards:347
+strategic:348
+strategies:349
+strategy:350
+structure:351
+structures:352
+student:353
+students:354
+studies:355
+study:356
+support:357
+sustainable:358
+synthesise:359
+system:360
+systems:361
+teaching:362
+team:363
+technical:364
+techniques:365
+technologies:366
+technology:367
+television:368
+terms:369
+texts:370
+theoretical:371
+theories:372
+theory:373
+thinking:374
+time:375
+tools:376
+topic:377
+topics:378
+traffic:379
+traffic_road:380
+translation:381
+transport:382
+transport_road:383
+types:384
+understand:385
+understanding:386
+undertake:387
+undertaken:388
+undertaken_internship:389
+unique:390
+values:391
+variety:392
+visual:393
+visualisation:394
+water:395
+weather:396
+weather_weather:397
+wide:398
+wind:399
+wind_wind:400
+work:401
+workplace:402
+works:403
+world:404
+writing:405
+written:406
+written_oral:407
+year:408
+year_host:409
+
+Bigram_Tokens('host', 'partner')
+('acquisit', 'comprehens')
+('weather', 'climat')
+('activ', 'deal')
+('decis', 'make')
+('climat', 'chang')
+('medic', 'devic')
+('innov', 'solut')
+('group', 'activ')
+('literari', 'text')
+('film', 'televis')
+('high', 'level')
+('have', 'acquir')
+('midwiferi', 'workplac')
+('pain', 'life')
+('distribut', 'softwar')
+('nation', 'secur')
+('secur', 'intellig')
+('partner', 'organis')
+('internship', 'year')
+('engag', 'cinema')
+('integr', 'hydrolog')
+('primari', 'sourc')
+('regulatori', 'australia')
+('digit', 'screen')
+('televis', 'seri')
+('healthcar', 'set')
+('limit', 'implic')
+('nurs', 'midwiferi')
+('written', 'oral')
+('evid', 'base')
+('groundwat', 'water')
+('hydrolog', 'water')
+('water', 'hydrolog')
+('traffic', 'road')
+('awar', 'limit')
+('capac', 'formul')
+('high', 'qualiti')
+('human', 'right')
+('individu', 'group')
+('algorithm', 'algorithm')
+('assess', 'acquisit')
+('risk', 'factor')
+('core', 'valu')
+('gain', 'experi')
+('chemic', 'transport')
+('cinema', 'film')
+('wide', 'rang')
+('chemistri', 'chemistri')
+('integr', 'divers')
+('internship', 'final')
+('physic', 'chemic')
+('capit', 'capit')
+('biomed', 'scienc')
+('account', 'financ')
+('film', 'screen')
+('safeti', 'regulatori')
+('problem', 'solv')
+('polit', 'philosophi')
+('awar', 'major')
+('pharmaci', 'internship')
+('support', 'sustain')
+('biomed', 'devic')
+('complet', 'uniqu')
+('time', 'seri')
+('solv', 'present')
+('water', 'resourc')
+('undertaken', 'internship')
+('chemistri', 'electron')
+('idea', 'experiment')
+('hydrolog', 'groundwat')
+('acquir', 'high')
+('bayesian', 'bayesian')
+('bayesian', 'result')
+('central', 'philosoph')
+('centuri', 'philosoph')
+('cinema', 'focus')
+('climat', 'central')
+('climat', 'weather')
+('commercialis', 'commercialis')
+('condit', 'foundat')
+('high', 'secur')
+('philosoph', 'bayesian')
+('safeti', 'disciplin')
+('transport', 'metal')
+('weather', 'weather')
+('flow', 'flow')
+('element', 'metal')
+('screen', 'content')
+('nation', 'intern')
+('oral', 'written')
+('chines', 'translat')
+('audienc', 'engag')
+('condit', 'consid')
+('consider', 'road')
+('final', 'educ')
+('healthcar', 'midwiferi')
+('implic', 'result')
+('onlin', 'seri')
+('philosophi', 'acquir')
+('philosophi', 'focus')
+('regulatori', 'commercialis')
+('regulatori', 'standard')
+('result', 'electron')
+('result', 'term')
+('road', 'function')
+('set', 'focus')
+('set', 'high')
+('standard', 'experiment')
+('transport', 'road')
+('workplac', 'term')
+('interpret', 'result')
+('activ', 'undertaken')
+('analyt', 'methodolog')
+('ethic', 'consider')
+('report', 'host')
+('complet', 'independ')
+('chemistri', 'water')
+('ensembl', 'chosen')
+('physic', 'water')
+('water', 'chemistri')
+('topic', 'cover')
+('articul', 'basi')
+('build', 'seri')
+('centuri', 'wide')
+('cinema', 'televis')
+('foundat', 'basi')
+('gain', 'sustain')
+('intellig', 'servic')
+('interact', 'groundwat')
+('life', 'centuri')
+('main', 'groundwat')
+('mechan', 'metal')
+('mechan', 'standard')
+('pharmaci', 'primari')
+('pharmaci', 'standard')
+('consid', 'essenti')
+('implic', 'onlin')
+('onlin', 'onlin')
+('philosophi', 'philosophi')
+('term', 'regulatori')
+('year', 'host')
+('health', 'safeti')
+('capit', 'time')
+('comput', 'scienc')
+('flow', 'hydrolog')
+('groundwat', 'flow')
+('decis', 'support')
+('main', 'group')
+('oral', 'form')
+('comprehens', 'foundat')
+('creation', 'philosoph')
+('debat', 'cinema')
+('focus', 'corpor')
+('foundat', 'undertaken')
+('meet', 'person')
+('pain', 'condit')
+('philosoph', 'debat')
+('secur', 'undertaken')
+('water', 'groundwat')
+('gain', 'experiment')
+('televis', 'onlin')
+('part', 'team')
+('year', 'thi')
+('element', 'ensembl')
+('make', 'creation')
+('life', 'care')
+('experi', 'final')
+('experi', 'healthcar')
+('independ', 'capac')
+('econom', 'environment')
+('data', 'visualis')
+('collect', 'analysi')
+('emphasi', 'decis')
+('apprais', 'evid')
+('composit', 'meet')
+('peopl', 'centuri')
+('visual', 'australia')
+('ensembl', 'perform')
+('consid', 'person')
+('electron', 'uniqu')
+('engag', 'debat')
+('experiment', 'biomed')
+('technic', 'risk')
+('build', 'distribut')
+('build', 'interact')
+('wind', 'wind')
+('music', 'ensembl')
+('uniqu', 'challeng')
+('acquir', 'core')
+('acquisit', 'internship')
+('commercialis', 'current')
+('condit', 'medic')
+('current', 'australia')
+('manufactur', 'function')
+('medic', 'condit')
+('standard', 'servic')
+('sustain', 'divers')
+('valu', 'broad')
+('flow', 'main')
